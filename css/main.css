@@ -28,7 +28,7 @@ div #red,
   height: 440px;
   position: absolute;
   background: white;
-  transition: 1s;
+  transition: 0.5s;
 }
 div #red header,
 #green header,
