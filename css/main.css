@@ -109,10 +109,10 @@ div #red:hover,
 .chooseplan {
   margin: 40px;
 }
-.features {
-  margin-top: 30px;
-}
 .chooseplan a {
   padding: 15px 50px;
   border-radius: 5px;
+}
+.features {
+  margin-top: 30px;
 }
